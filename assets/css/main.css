@@ -2706,35 +2706,27 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
+				background-color: #8B829E;
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #7ecaf6;
+				background-color: #7DA0C5;
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #7bd0c1;
+				background-color: #F4E4BA;
 			}
 
 			.tiles article.style4 > .image:before {
-				background-color: #c75b9b;
+				background-color: #DDA448;
 			}
 
 			.tiles article.style5 > .image:before {
-				background-color: #ae85ca;
+				background-color: #2F323A;
 			}
 
 			.tiles article.style6 > .image:before {
-				background-color: #8499e7;
-			}
-
-			.tiles article.style7 > .image:before {
-				background-color: #E43500;
-			}
-
-			.tiles article.style8 > .image:before {
-				background-color: #E43500;
+				background-color: #254E70;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
